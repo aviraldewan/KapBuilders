@@ -1,0 +1,23 @@
+.container {
+    width: 175px;
+    height: 175px;
+    padding: 15px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 15px;
+    margin: 40px;
+}
+
+.pic {
+    width: 150px;
+    height: 150px;
+    border-radius: 20px;
+}
+
+.title {
+    font-size: 1.2rem;
+    font-weight: 400;
+}

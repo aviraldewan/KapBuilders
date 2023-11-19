@@ -1,0 +1,44 @@
+.container {
+    width: 300px;
+    height: 350px;
+    padding: 2px 15px 15px 15px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    border-radius: 12px;
+    margin: 0 40px 40px 40px;
+    box-shadow: 5px 5px 10px #88888881;
+}
+
+.pic {
+    width: 275px;
+    height: 150px;
+    border-radius: 20px;
+    justify-self: flex-start;
+}
+
+.title {
+    font-size: 1.3rem;
+    font-weight: 500;
+    margin-bottom: 0px;
+}
+
+.desc {
+    font-size: 1rem;
+    font-weight: 400;
+    text-align: left;
+    max-height: 50px;
+    overflow: hidden;
+    margin-bottom: 50px;
+}
+
+.button {
+    justify-self: flex-end;
+    padding: 10px 25px 10px 25px;
+    border-radius: 30px;
+    border: none;
+    background-color: rgb(241, 241, 241);
+    font-weight: 600;
+}
