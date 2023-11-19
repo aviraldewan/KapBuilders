@@ -10,10 +10,11 @@
 
 .header {
     font-size: 5rem;
-    font-weight: 300;
+    font-weight: 600;
     margin: 0;
     margin-bottom: 30px;
     align-self: flex-start;
+    color: white;
 }
 
 .info {
