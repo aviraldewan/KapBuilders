@@ -7,10 +7,11 @@
 }
 
 .header {
-    font-size: 2.7rem;
-    font-weight: 700;
+    font-size: 4rem;
+    font-weight: 600;
     margin: 0;
     margin-bottom: 30px;
+    color: white;
 }
 
 .about {

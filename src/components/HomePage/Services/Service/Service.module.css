@@ -9,7 +9,13 @@
     flex-direction: column;
     border-radius: 15px;
     margin: 40px;
+    transition: transform 0.3s ease-in-out;
 }
+
+.container:hover {
+    transform: translateY(-10px);
+    box-shadow: 0px 10px 20px rgba(0,0,0,0.2);
+  }
 
 .pic {
     width: 150px;
